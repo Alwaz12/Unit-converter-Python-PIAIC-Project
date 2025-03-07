@@ -375,7 +375,7 @@ def main():
     st.markdown(
         """
         <div style="text-align: center; color: #666;">
-            Universal Unit Converter Made By Nazia Imran
+            Universal Unit Converter Made By Alwaz Ansari
         </div>
         """,
         unsafe_allow_html=True
